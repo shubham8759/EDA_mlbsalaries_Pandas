@@ -1,0 +1,22 @@
+1. How to find out total no. of records 
+2. How to find out total no. of columns?
+3. Display all column names ?
+4. Show only maximum salary value?
+5. Show only mininum salary value?
+6. Show Maximum salary complete record?
+7. Show Minimum salary complete record?
+8. Show all records Team Wise Details?
+9. Show all records Year Wise Details?
+10. Show all player names which position=Pitcher?
+11. How to find out all missing values count in all columns?
+12. Show Team wise Salaries Total?
+13. Count All Players Team wise ?
+14. Show all unique Team names?
+15. Display Total no. of Unique Teams?
+16. How to find out year wise total count?
+19. Show all records for the year 2010 & also count how many records?
+20. How to Sort records by player in ascending order for the year 2010?
+21. How to Sort column labels in ascending order for the year 2010?
+22. How to find out Top 5 highest paid salary records for the year 2010?
+      [show only 2 columns: Player name & Salary]
+
